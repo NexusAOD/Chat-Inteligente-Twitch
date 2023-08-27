@@ -1,1 +1,3 @@
 # Chat-Inteligente-Twitch
+
+Este proyecto es para la materia de Inteligencia artificial I el cual consiste en crear un chat bot que respona a preguntas sencillas en cualquier tipo de aplicacion, en este caso utilizamos twitch pero se pudo haber utilizado telegram, wahtsapp etc. Este proyecto lo llame chat inteligente ya que GitHub no me deja poner la palabra "bot" en el titulo, la diferencia es que este no piensa, ya esta programado para responder preguntas concretas, pero si fuera con una red neuronal ahi la cosa cambiaria, el termino bot ahora si se transformaria como chat inteligente, ya que responderia a mas preguntas o dudas con pudeira llamarce "conciencia" y de manera inteligente como lo hacen otras IA.
